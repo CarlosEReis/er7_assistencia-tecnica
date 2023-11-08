@@ -1,6 +1,13 @@
+
+<p align="center">
+    <a href="https://www.java.com/pt-BR/" target="_blank"><img title="Java" src="https://github.com/CarlosEReis/er7_assistencia-tecnica/assets/12797559/41c08893-7af3-4de9-ac88-9f4d572a2869" alt="java" width="120" height="120"/>
+</p>
+
+
+
 <div align="center">
   
-# Sistema de Gerenciamento de Chamados Técnicos
+# Sistema para Gerenciamento de Chamados Técnicos
 </div>
 
 Olá, este é um projeto pessoal que estou desenvolvendo para o meu portifólio. Trata-se de um sistema para o gerenciamento de chamados técnicos.
@@ -8,19 +15,32 @@ Olá, este é um projeto pessoal que estou desenvolvendo para o meu portifólio.
 <p align="center">
     <a href="https://www.java.com/pt-BR/" target="_blank"><img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>&nbsp &nbsp
     <a href="https://spring.io/" target="_blank"><img title="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/></a>&nbsp &nbsp
-    <a href="https://www.typescriptlang.org/" target="_blank"><img title="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>&nbsp &nbsp
-    <a href="https://angular.io/" target="_blank"><img title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/></a>&nbsp &nbsp
     <a href="https://www.mysql.com/" target="_blank"><img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>&nbsp &nbsp
+    <a href="https://angular.io/" target="_blank"><img title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/></a>&nbsp &nbsp
+    <a href="https://www.typescriptlang.org/" target="_blank"><img title="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>&nbsp &nbsp
+    <a href="https://po-ui.io/" target="_blank"><img title="PO-UI" src="https://po-ui.io/assets/po-logos/po_color_bg.svg" alt="PO-UI" width="40" height="40"/></a>&nbsp &nbsp
 </p>
 
 
-Clique na imagem abaixo para assistir o vídeo, e ver maiores detalhes: 📽 🎞
+
+
+  ## Tecnologias
+  
+- **Backend**:
+
+  Java | Spring Boot | Spring Data JPA | Spring Security | JWT | MySQL | FlyWay | Jasper Report
+
+- **Frontend**:
+
+  Angular | PO-UI | Typescript | HTML 5 | CSS 3
+
+
+
+🤚 🎥 **Clique** na imagem abaixo para assistir o vídeo, e ver maiores detalhes: 📽 🎞
+
 [![Watch the video](https://github-production-user-asset-6210df.s3.amazonaws.com/12797559/281187311-64303ede-6fb7-4d73-8d54-41380bd4dbeb.png)](https://www.youtube.com/embed/4UlR75WgHHM)
 
-## Tecnologias
 
-- **Backend**: Java, Spring Boot, Spring Data JPA, Spring Security, JWT, MySQL, FlyWay, Jasper Report
-- **Frontend**: Angular, PO-UI, Typescript, HTML 5, CSS 3
 
 ## Motivação
 
@@ -56,6 +76,6 @@ O sistema possui os seguintes tipos de usuários, com diferentes níveis de aces
 - 👩‍💼 **Gestor**: Acesso aos cadastros, edições, ativação e inativação de usuários, produtos, clientes e chamados, podendo visualizar o dashboard no contexto geral e os indicadores de desempenho (KPIs).
 - 🧑‍🔧 **Analista Técnico**: Acesso somente à visualização dos clientes e produtos, podendo interagir nos chamados técnicos (validar e concluir), e visualizar o dashboard contextualizado no seu usuário.
 
-### Diagrama de Classes:
+## Diagrama de Classes:
 
 ![diagrama-classe](https://github.com/CarlosEReis/er7_assistencia-tecnica/assets/12797559/83865b20-20e3-40f3-9647-8fa7d3cf6fc2)
