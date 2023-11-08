@@ -1,0 +1,3 @@
+[submodule "Front-End"]
+	path = er7_ass-tec-ui
+	url = https://github.com/CarlosEReis/er7_ass-tec-ui.git
