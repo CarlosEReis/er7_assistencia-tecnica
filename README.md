@@ -15,6 +15,7 @@ Olá, este é um projeto pessoal que estou desenvolvendo para o meu portifólio.
 <p align="center">
     <a href="https://www.java.com/pt-BR/" target="_blank"><img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>&nbsp &nbsp
     <a href="https://spring.io/" target="_blank"><img title="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/></a>&nbsp &nbsp
+    <a href="https://community.jaspersoft.com/" target="_blank"><img title="Jaspersoft Studio" src="https://images.sftcdn.net/images/t_app-icon-s/p/e6d790bb-aa65-4fab-aa1e-346af12710a0/1081729734/jaspersoft-studio-imgingest-4237344852768170016.png" alt="Jaspersoft Studio" width="40" height="40"/></a>&nbsp &nbsp
     <a href="https://www.mysql.com/" target="_blank"><img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>&nbsp &nbsp
     <a href="https://angular.io/" target="_blank"><img title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/></a>&nbsp &nbsp
     <a href="https://www.typescriptlang.org/" target="_blank"><img title="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>&nbsp &nbsp
