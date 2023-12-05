@@ -41,8 +41,7 @@ Olá, este é um projeto pessoal que estou desenvolvendo para o meu portifólio.
 
 🤚 🎥 **Clique** na imagem abaixo para assistir o vídeo, e ver maiores detalhes: 📽 🎞
 
-[![Watch the video](https://github-production-user-asset-6210df.s3.amazonaws.com/12797559/281187311-64303ede-6fb7-4d73-8d54-41380bd4dbeb.png)](https://www.youtube.com/embed/4UlR75WgHHM)
-
+[![Watch the video](https://github.com/CarlosEReis/er7_assistencia-tecnica/assets/12797559/860baba2-c4a0-45be-84fe-5ed2da72ab3a)](https://www.youtube.com/embed/4UlR75WgHHM)
 
 
 ## Motivação
