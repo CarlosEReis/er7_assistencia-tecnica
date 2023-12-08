@@ -67,8 +67,8 @@ O sistema possui as seguintes funcionalidades:
 - **Cadastro de Produtos**: Permite criar, editar, ativar e inativar produtos.
 - **Cadastro de Clientes**: Permite criar, editar, ativar e inativar clientes.
 - **Cadastro de Chamados Técnicos**: Permite criar, editar, cancelar e excluir chamados técnicos.
-- **Envio de e-mail**: Envio de e-mail através de envento ao criar, iniciar avaliação e finalizar o chamado
-- **Gerar PDF do chamado**: Gera um laudo do chamado, na abertura do mesmo e ao finalizar o chamado, adicionando a posição técnica de cada item.
+- **Envio de e-mail**: Envio de e-mail através de eventos ao criar, iniciar avaliação e finalizar o chamado (alteração de status).
+- **Gera PDF do chamado**: Gera um laudo do chamado, na abertura do mesmo e ao finalizar o chamado, adicionando a posição técnica de cada item.
 
 ## Tipos de Usuários
 
